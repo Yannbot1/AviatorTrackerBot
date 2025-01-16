@@ -3,8 +3,8 @@ import json
 import time
 
 class Sender:
-    token = ""
-    chat_ID = ""
+    token = "7675002602:AAEyW_J6wQQMoCpzEKQY96KuGTg8D_o_wOc"
+    chat_ID = "6493293796"
     
     def __init__(self , token):
         self.token = token
