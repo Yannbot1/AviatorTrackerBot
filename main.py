@@ -10,9 +10,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from telegram_sender import Sender
 
-TOKEN = "YOUR-TOKEN-HERE" #Your token that you got the BotFather
-USERNAME = "YOUR-EMAIL" #YOUR-EMAIL
-PASSWORD = "YOUR-PASSWORD" #YOUR-PASSWORD
+TOKEN = "7675002602:AAEyW_J6wQQMoCpzEKQY96KuGTg8D_o_wOc" #Your token that you got the BotFather
+USERNAME = "yannbot570@gmail.com" #YOUR-EMAIL
+PASSWORD = "yannbot@237" #YOUR-PASSWORD
 numberOfConsec = 3 #Number of consecutive
 ratio = 2.0 #Trigger ratio. Ex: (Bets below 2.00x.)
 url = "https://www.maxbet.rs/ibet-web-client/#/home/game/spribe/aviator"
